@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayMult", "ArrayMult\Arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perks", "Perks\Perks.csproj", "{FADADE60-C7DF-42DE-B329-B07DA3349A0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamousQuotes", "FamousQuotes\FamousQuotes.csproj", "{7F0AE7BD-749D-4A05-9C77-AB99DDFFBBED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowTwoUntil", "PowTwoUntil\PowTwoUntil.csproj", "{D4E4E735-B227-46F1-A64B-8469D43C48B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{FADADE60-C7DF-42DE-B329-B07DA3349A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FADADE60-C7DF-42DE-B329-B07DA3349A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FADADE60-C7DF-42DE-B329-B07DA3349A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F0AE7BD-749D-4A05-9C77-AB99DDFFBBED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0AE7BD-749D-4A05-9C77-AB99DDFFBBED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0AE7BD-749D-4A05-9C77-AB99DDFFBBED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0AE7BD-749D-4A05-9C77-AB99DDFFBBED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4E4E735-B227-46F1-A64B-8469D43C48B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E4E735-B227-46F1-A64B-8469D43C48B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E4E735-B227-46F1-A64B-8469D43C48B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E4E735-B227-46F1-A64B-8469D43C48B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
