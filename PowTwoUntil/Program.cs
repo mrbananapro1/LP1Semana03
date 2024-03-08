@@ -11,6 +11,9 @@ namespace PowTwoUntil
                 Console.WriteLine(i);
             }
         }
-
+        static void Main(string[] args)
+        {
+            PowersOf2Until5();
+        }
     }
 }
